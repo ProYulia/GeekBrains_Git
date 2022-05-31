@@ -132,14 +132,15 @@ ___
 
 Чтобы посмотреть разницу между ветками, запускаем команду *`git diff имя_ветки1 имя_ветки2`* 
 
-![](https://avatars.githubusercontent.com/u/9919?s=280&v=4) 
+![]([https://avatars.githubusercontent.com/u/9919?s=280&v=4](http://www.afd-techtalk.com/wp-content/uploads/2018/02/github.png) 
 # GitHub Tutorial
 
 1. Создаем новый репозиторий на [GitHub](https://github.com). 
 2. Добавляем в терминале новый сервер для Git, куда будем отправлять файлы проекта `git remote add origin https://ссылка на репозиторий GitHub`.
 3. Если терминал выдает ошибку "внешний репозиторий origin уже существует", можно поменять ссылку на репозиторий `git remote set-url origin *new_link*`.
 4. Проверяем, что сервер добавился `git remote -v`.
-5. Теперь можно пушить проект на GitHub. В терминале набираем `git push -u origin master`
+5. Теперь можно пушить проект на GitHub. В терминале набираем `git push`
+6. Если изменения в файл были внесены через GitHub, необходимо обновить локальную версию, используя команду `git pull` в терминале
 
 
 
