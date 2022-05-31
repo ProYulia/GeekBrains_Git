@@ -132,7 +132,7 @@ ___
 
 Чтобы посмотреть разницу между ветками, запускаем команду *`git diff имя_ветки1 имя_ветки2`* 
 
-![]([https://avatars.githubusercontent.com/u/9919?s=280&v=4](http://www.afd-techtalk.com/wp-content/uploads/2018/02/github.png) 
+![](http://www.afd-techtalk.com/wp-content/uploads/2018/02/github.png) 
 # GitHub Tutorial
 
 1. Создаем новый репозиторий на [GitHub](https://github.com). 
